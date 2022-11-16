@@ -1,6 +1,6 @@
 # Face_Recognition_Digital_Image_Processing
 
-## 디지털 영상처리 과제 제출
+## 디지털 영상처리 얼굴인식
 
 ### 구현 결과
 
